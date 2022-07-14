@@ -1,20 +1,18 @@
-"Estado,""Casos"""
-Ciudad de México,1828
-México,695
-Baja California,505
-Sinaloa,327
-Puebla,305
-Quintana Roo,276
-Tabasco,233
-Coahuila,214
-Jalisco,178
-Baja California Sur,166
-Nuevo León,159
-Yucatán,131
-Veracruz,112
-Chihuahua,108
-Guerrero,100
-Guanajuato,96
-Sonora,117
-Michoacán,84
-Tamaulipas,78
+"Estado","Casos"
+"Ciudad de México",1828
+"México",695
+"Baja California",505
+"Sinaloa",327
+"Puebla",305
+"Quintana Roo",276
+"Tabasco",233
+"Coahuila",214
+"Jalisco",178
+"Baja California Sur",166
+"Nuevo León",159
+"Yucatán",131
+"Veracruz",112
+"Chihuahua",108
+"Guerrero",100
+"Guanajuato",96
+"Sonora",117
