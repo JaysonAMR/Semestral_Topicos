@@ -1,0 +1,21 @@
+DasH, Graficos Interactivos
+https://www.youtube.com/watch?v=uUo31JYKj3k&t=240s
+
+Plotly Dash
+https://www.youtube.com/watch?v=7m0Bq1EGPPg
+
+Crear DashBoard
+https://www.youtube.com/watch?v=mI1NYF1dbLU
+
+Ejmplo estrella de Mexico
+https://www.youtube.com/watch?v=MaypM_PUuPk
+
+Instalar Geopandas manual
+https://www.youtube.com/watch?v=H1A5mZDoXYg
+
+Crear Mapas con Geopandas
+https://www.youtube.com/watch?v=qxO8egwNtG0
+
+Crear Base map
+https://www.youtube.com/watch?v=mtklVK04nBw
+

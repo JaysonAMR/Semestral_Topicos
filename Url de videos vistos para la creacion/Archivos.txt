@@ -1,0 +1,26 @@
+Archivo Eestrella de json de Panamá
+https://pbiusergroup.connectedcommunity.org/communities/community-home/digestviewer/viewthread?GroupId=673&MessageKey=2118933b-1e86-4842-b62a-0d9d67ed94fe&CommunityKey=304cd11b-571d-4be2-ac9a-fb3d2e496cd1&tab=digestviewer&ReturnUrl=%2Fcommunities%2Fcommunity-home%2Fdigestviewer%3FCommunityKey%3D304cd11b-571d-4be2-ac9a-fb3d2e496cd1
+
+Como usar Clorophet
+https://plotly.com/python/county-choropleth/
+
+Como usar Call Back
+https://dash.plotly.com/basic-callbacks
+
+Convertir archivo excel a CSV
+https://convertio.co/es/xlsx-csv/
+
+Instalacion de paquetes manualmente
+https://packaging.python.org/en/latest/tutorials/installing-packages/
+
+Descarga de Archivo GDAL
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
+
+Descarga de wheel
+https://pypi.org/project/wheel/#files
+
+Codigo Ejemplo de Mexico
+https://colab.research.google.com/drive/1fVhCdCVTUjCsXsEqGqI89YzTZIYGStcU
+
+Puertos de Panamá
+https://www.amp.gob.pa/newsite/spanish/puertos2/archivos/Ficha%20tecnica%20estatales%20para%20web.pdf
